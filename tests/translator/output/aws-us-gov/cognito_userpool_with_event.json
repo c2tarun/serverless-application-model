@@ -22,6 +22,9 @@
               "Arn"
             ]
           }
+        },
+        "UsernameConfiguration": {
+          "CaseSensitive": "True"
         }
       }
     },

@@ -4,6 +4,8 @@ Resources:
     Properties:
       LambdaConfig:
         PreAuthentication: "Test"
+      UsernameConfiguration:
+        CaseSensitive: "True"
   ImplicitApiFunction:
     Type: AWS::Serverless::Function
     Properties:
